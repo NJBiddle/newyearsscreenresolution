@@ -1,0 +1,3 @@
+# Logfile created on 2014-02-11 15:48:59 -0600 by logger.rb/44203
+I, [2014-02-11T15:48:59.110234 #30691]  INFO -- : 0:  rack (1.5.2) from /Users/nickbiddle/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-02-11T15:48:59.110785 #30691]  INFO -- : 0:  bundler (1.5.1) from /Users/nickbiddle/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
